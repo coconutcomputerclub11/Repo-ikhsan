@@ -1,0 +1,56 @@
+
+
+
+
+a:hover{
+    background-color: rgb(215, 226, 118);
+    border: 1px solid blue;
+}
+body {
+    background-color: rgb(93, 216, 216) ;
+
+}
+footer{
+font-family: 'Libre Franklin', sans-serif;
+background-color: rgb(29, 25, 25);
+color: white;
+}
+li:first-child {
+    background-color: rgba(13, 13, 221, 0.918);
+
+}
+li:last-child{
+    background-color: rgba(168, 231, 19, 0.918);
+
+}
+
+li:nth-child(2){
+    background-color: rgb(255, 0, 0) ;
+}
+li:nth-child(3){
+    background-color: brown ;
+}
+
+.hitam {
+    background-color: darkorange;
+}
+.hitam {
+    background-color: darkorange;
+}
+.gold{
+    background-color: darkorange;
+}
+.t{
+    background-color: rgb(46, 236, 46);
+}
+tr:nth-last-of-type(2n) td{
+    background-color: rgb(43, 71, 199);
+    color: rgb(0, 248, 74);
+}
+table {
+    background-image: url('https:/placekitten.com/500/500'); 
+    background-size: cover;
+}
+
+ 
+ 
